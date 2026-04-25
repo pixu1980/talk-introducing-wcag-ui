@@ -3,7 +3,7 @@
 
 @import './_cascade.css' layer(pixu-talks);
 
-@layer pixu-talks {
+@layer speaker-talks {
   .reveal pre {
     max-width: 80%;
   }
